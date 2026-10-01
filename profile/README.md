@@ -34,6 +34,24 @@ Building the backend stack for email, voice, and real-time apps — so you don't
 | [**keypal**](https://github.com/enjoys-in/keypal) | Secure API key management — hashing, scopes, expiry, pluggable storage | `TypeScript` |
 | [**react-api**](https://github.com/enjoys-in/react-api) | Strongly-typed storage utility using CacheStorage & IndexedDB with sync events | `TypeScript` |
 | [**mailbridge**](https://github.com/enjoys-in/mailbridge) | Mail routing & bridging service | `TypeScript` |
+| [**context-engine**](https://github.com/enjoys-in/context-engine) | Monaco Editor language intelligence as pre-built JSON — 97 languages, 29 providers, zero backend | `TypeScript` |
+| [**monaco-lsp-hub**](https://github.com/enjoys-in/monaco-lsp-hub) | Browser Monaco editor with full LSP over WebSocket — connect to 44+ language servers | `TypeScript` |
+| [**monaco-vanced**](https://github.com/enjoys-in/monaco-vanced) | Plugin-based, event-driven IDE on Monaco — 85+ composable modules | `TypeScript` |
+| [**vscode-editor**](https://github.com/enjoys-in/vscode-editor) | Full VS Code workbench in the browser (Monaco + monaco-vscode-api) | `TypeScript` |
+| [**voxly**](https://github.com/enjoys-in/voxly) | Multi-tenant SIP IVR calling platform (Asterisk + Jambonz) | `TypeScript` |
+| [**connect**](https://github.com/enjoys-in/connect) | Multi-tenant WhatsApp Business Platform — shared inbox, campaigns, chatbots & API | `TypeScript` |
+| [**VoxFront**](https://github.com/enjoys-in/VoxFront) | Browser VoIP DSP for AI voice agents — echo cancellation, noise suppression, VAD (WASM) | `Rust` `TypeScript` |
+| [**SyncHub**](https://github.com/enjoys-in/SyncHub) | High-scale multi-tenant WebSocket message broker | `Go` `Elixir` |
+| [**pinglet**](https://github.com/enjoys-in/pinglet) | Real-time notification platform | `TypeScript` |
+| [**meetingbot**](https://github.com/enjoys-in/meetingbot) | Meeting bot API — record Google Meet / Teams / Zoom, self-host on AWS | `TypeScript` |
+| [**haraka**](https://github.com/enjoys-in/haraka) | Self-hosted mail stack on the Haraka SMTP server with admin API & UI | `TypeScript` |
+| [**kumo-web-ui**](https://github.com/enjoys-in/kumo-web-ui) | Web dashboard for KumoMTA — queues, SMTP tracing & metrics | `TypeScript` |
+| [**go-auth-server**](https://github.com/enjoys-in/go-auth-server) | Production-ready Go auth server — multi-OIDC, 2FA, sessions, API keys | `Go` |
+| [**store**](https://github.com/enjoys-in/store) | Embedded, local-first backend runtime & Redis-like data structures on RocksDB | `TypeScript` |
+| [**webhooks**](https://github.com/enjoys-in/webhooks) | Self-hosted webhook testing tool (webhook.site-style) | `Go` `React` |
+| [**microVM**](https://github.com/enjoys-in/microVM) | Platform-as-a-Service running real Firecracker micro VMs on WSL2 | `Go` `Rust` |
+| [**serverless-os**](https://github.com/enjoys-in/serverless-os) | A serverless OS where everything runs as event-triggered functions | `Rust` |
+| [**commitiq**](https://github.com/enjoys-in/commitiq) | Privacy-first developer analytics & AI work-intelligence platform | `TypeScript` |
 
 ➡️ [**Browse all repositories**](https://github.com/orgs/enjoys-in/repositories)
 
