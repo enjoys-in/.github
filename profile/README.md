@@ -27,6 +27,7 @@ Building the backend stack for email, voice, and real-time apps — so you don't
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**enjoys-voice**](https://github.com/enjoys-in/enjoys-voice) | Self-hosted voice / VoIP platform with anti-fraud, multi-party conferences & call queues | `TypeScript` `Go` `FreeSWITCH` |
+| [**typly**](https://github.com/enjoys-in/typly) | Offline-first typing-exam practice for Indian competitive exams (SSC, Railway, Banking, Court, State). | `TypeScript` `Electron` |
 | [**react-chatbot-plugin**](https://github.com/enjoys-in/react-chatbot-plugin) | Fully customizable chatbot widget for React — JSON flows, 15+ form fields, plugins. Like tawk.to, but open-source | `TypeScript` `React` |
 | [**server-stack-suite-backend**](https://github.com/enjoys-in/server-stack-suite-backend) | All-in-one self-hostable server management suite | `TypeScript` |
 | [**cal-dev**](https://github.com/enjoys-in/cal-dev) | Calendar server (Go + Fiber + PostgreSQL + Valkey) with CalDAV / JMAP & Google/Apple interop | `Go` |
